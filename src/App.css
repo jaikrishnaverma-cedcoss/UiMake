@@ -1,0 +1,30 @@
+.clr1{
+  background-color: #00b2b9;
+}
+.fcl1{
+  color: #00b2b9;
+}
+.fcl2{
+  color: #00344f;
+}
+.clr2{
+  background-color: #003e58;
+}
+.btn-trans{
+  color: #003e58;
+}
+.btner{
+  border-radius: 20px;
+  padding: 1.2% 3%;
+  color:white;
+}
+.heading{
+  font-size: 70px;
+}
+.subheading{
+  font-size: 60px;
+}
+.main{
+  border:6px solid #00b2b9;
+  width: 99.2%;
+}
